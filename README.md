@@ -1,1 +1,1 @@
-# Computer-aidedDiseaseRecognition
+# Computer-aided Disease Recognition
